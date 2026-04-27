@@ -1,7 +1,8 @@
-# Quantum-Double-Slit-Simulation-de-Broglie-Interference-Model
-A precise mathematical and physical simulation of the interference phenomenon observed in the double-slit experiment, based on the de Broglie wavelength hypothesis. This simulation bridges the gap between the wave-like quantum evolution of particles and the classical interference patterns characteristic of Fraunhofer diffraction.
-Quantum Double-Slit Simulation: de Broglie Interference Model
-Description
+### Simulation Result
+![Quantum Double-Slit Pattern](quantum_double_slit.png)
+
+
+### 
 This project provides a rigorous mathematical and physical simulation of the interference phenomenon observed in the double-slit experiment, grounded in the de Broglie wavelength hypothesis. The simulation bridges the gap between the wave-like quantum evolution of particles and the classical interference patterns characterized by the Fraunhofer diffraction regime.
 Key Features
 Analytical Fidelity: Implements a high-precision probability density distribution function derived from quantum interference principles.
